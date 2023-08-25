@@ -1,8 +1,8 @@
 {
-    "name": "Gallery",
-    "short_name": "pix",
-    "description": "an app about photo gallery",
-    "open_url": "gallery.html",
+    "name": "VegKing",
+    "short_name": "VK",
+    "description":"an app about vegetables",
+    "start_url": "./example.html",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
